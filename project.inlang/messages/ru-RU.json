@@ -1,0 +1,8 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"edit_guide_select_talent_title": "Выберите талант",
+	"edit_guide_publish": "Опубликовать",
+	"edit_guide_create": "Создать",
+	"footer_all_rights_reserved": "Все права защищены",
+	"guide_text": "Гайд"
+}
